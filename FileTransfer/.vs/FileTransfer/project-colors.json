@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77772c27-c54f-4011-b2c2-8654237779bc": {
+      "ProjectGuid": "77772c27-c54f-4011-b2c2-8654237779bc",
+      "DisplayName": "FileTransfer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

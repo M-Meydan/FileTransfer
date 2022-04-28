@@ -1,0 +1,424 @@
+﻿++Solution 'FileTransfer' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:FileTransfer.sln
+++FileTransfer
+i:{00000000-0000-0000-0000-000000000000}:FileTransfer
+++Dependencies
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:>328
+++Imports
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:>111
+++bin
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\
+++Commands
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\commands\
+++ExitCommand.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\commands\exitcommand.cs
+++ICommand.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\commands\icommand.cs
+++TransferCommand.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\commands\transfercommand.cs
+++Extensions
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\extensions\
+++Helpers
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\helpers\
+++AppConfig.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\helpers\appconfig.cs
+++CommandFactory.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\helpers\commandfactory.cs
+++FileHelper.cs
+++Models
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\models\
+++FileTransferMdl.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\models\filetransfermdl.cs
+++TransferJob.cs
+++obj
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\
+++Services
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\services\
+++FileTransferService.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\services\filetransferservice.cs
+++appsettings.json
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\appsettings.json
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\appsettings.json
+++Program.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\program.cs
+++Startup.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\startup.cs
+++Analyzers
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:analyzers
+++Frameworks
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:frameworks
+++Packages
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:packages
+++Sdk.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\
+++FileTransfer.csproj.nuget.dgspec.json
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\filetransfer.csproj.nuget.dgspec.json
+++FileTransfer.csproj.nuget.g.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\filetransfer.csproj.nuget.g.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\filetransfer.csproj.nuget.g.props
+++FileTransfer.csproj.nuget.g.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\filetransfer.csproj.nuget.g.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\filetransfer.csproj.nuget.g.targets
+++project.assets.json
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\project.assets.json
+++project.nuget.cache
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\project.nuget.cache
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\users\muhsinmeydan\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-preview.3.22175.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\users\muhsinmeydan\.nuget\packages\system.text.json\7.0.0-preview.3.22175.4\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\microsoft.netcore.app
+++MediatR (10.0.1)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:>337
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:>339
+++Microsoft.Extensions.Hosting (7.0.0-preview.3.22175.4)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:>335
+++MMQ (1.0.18)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:>338
+++Newtonsoft.Json (13.0.1)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:>336
+++Microsoft.Common.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++net6.0
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\browser\lib\net6.0\
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\win\lib\net6.0\
+++Microsoft.LiveUnitTesting.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.liveunittesting.props
+++Microsoft.NuGet.ImportBefore.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++cc
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\cc\
+++ref
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\ref\
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\ref\
+++runtimes
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\
+++FileTransfer.deps.json
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\filetransfer.deps.json
+++FileTransfer.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\filetransfer.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\ref\filetransfer.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\ref\filetransfer.dll
+++FileTransfer.exe
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\filetransfer.exe
+++FileTransfer.pdb
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\filetransfer.pdb
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.pdb
+++FileTransfer.runtimeconfig.json
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\filetransfer.runtimeconfig.json
+++MediatR.Contracts.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\mediatr.contracts.dll
+++MediatR.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\mediatr.dll
+++MediatR.Extensions.Microsoft.DependencyInjection.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\mediatr.extensions.microsoft.dependencyinjection.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.Configuration.CommandLine.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.configuration.commandline.dll
+++Microsoft.Extensions.Configuration.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.configuration.environmentvariables.dll
+++Microsoft.Extensions.Configuration.FileExtensions.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.configuration.fileextensions.dll
+++Microsoft.Extensions.Configuration.Json.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.configuration.json.dll
+++Microsoft.Extensions.Configuration.UserSecrets.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.configuration.usersecrets.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.FileProviders.Abstractions.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.fileproviders.abstractions.dll
+++Microsoft.Extensions.FileProviders.Physical.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.fileproviders.physical.dll
+++Microsoft.Extensions.FileSystemGlobbing.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.filesystemglobbing.dll
+++Microsoft.Extensions.Hosting.Abstractions.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.hosting.abstractions.dll
+++Microsoft.Extensions.Hosting.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.hosting.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.Configuration.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.logging.configuration.dll
+++Microsoft.Extensions.Logging.Console.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.logging.console.dll
+++Microsoft.Extensions.Logging.Debug.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.logging.debug.dll
+++Microsoft.Extensions.Logging.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Logging.EventLog.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.logging.eventlog.dll
+++Microsoft.Extensions.Logging.EventSource.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.logging.eventsource.dll
+++Microsoft.Extensions.Options.ConfigurationExtensions.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.options.configurationextensions.dll
+++Microsoft.Extensions.Options.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\microsoft.extensions.primitives.dll
+++MMQ.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\mmq.dll
+++Newtonsoft.Json.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\newtonsoft.json.dll
+++output.dat
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\output.dat
+++System.Diagnostics.EventLog.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\system.diagnostics.eventlog.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\win\lib\net6.0\system.diagnostics.eventlog.dll
+++System.Text.Encodings.Web.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\system.text.encodings.web.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\browser\lib\net6.0\system.text.encodings.web.dll
+++System.Text.Json.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\system.text.json.dll
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\apphost.exe
+++FileTransfer.AssemblyInfo.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.assemblyinfo.cs
+++FileTransfer.AssemblyInfoInputs.cache
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.assemblyinfoinputs.cache
+++FileTransfer.assets.cache
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.assets.cache
+++FileTransfer.csproj.AssemblyReference.cache
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.csproj.assemblyreference.cache
+++FileTransfer.csproj.CopyComplete
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.csproj.copycomplete
+++FileTransfer.csproj.CoreCompileInputs.cache
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.csproj.corecompileinputs.cache
+++FileTransfer.csproj.FileListAbsolute.txt
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.csproj.filelistabsolute.txt
+++FileTransfer.GeneratedMSBuildEditorConfig.editorconfig
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.generatedmsbuildeditorconfig.editorconfig
+++FileTransfer.genruntimeconfig.cache
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.genruntimeconfig.cache
+++FileTransfer.GlobalUsings.g.cs
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\obj\debug\net6.0\filetransfer.globalusings.g.cs
+++Microsoft.Extensions.Configuration.UserSecrets.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\users\muhsinmeydan\.nuget\packages\microsoft.extensions.configuration.usersecrets\7.0.0-preview.3.22175.4\buildtransitive\netstandard2.0\microsoft.extensions.configuration.usersecrets.props
+++Microsoft.NuGet.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++browser
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\browser\
+++win
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\win\
+++Microsoft.NET.ILLink.Tasks.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++lib
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\browser\lib\
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\win\lib\
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.LiveUnitTesting.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importbefore\microsoft.liveunittesting.targets
+++Microsoft.NET.props
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.QualityTools.Testing.Fakes.ImportAfter.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.qualitytools.testing.fakes.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.Configuration.UserSecrets.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\users\muhsinmeydan\.nuget\packages\microsoft.extensions.configuration.usersecrets\7.0.0-preview.3.22175.4\buildtransitive\netstandard2.0\microsoft.extensions.configuration.usersecrets.targets
+++Microsoft.Docker.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.QualityTools.Testing.Fakes.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\fakes\microsoft.qualitytools.testing.fakes.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\program files\microsoft visual studio\2022\enterprise\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++System.Diagnostics.EventLog.Messages.dll
+i:{1cee91aa-ed90-4a13-85ff-3c2fc622b97f}:c:\source\repos\muhsin\filetransfer\filetransfer\bin\debug\net6.0\runtimes\win\lib\net6.0\system.diagnostics.eventlog.messages.dll

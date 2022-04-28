@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer.Test\\FileTransfer.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer.Test\\FileTransfer.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer.Test\\FileTransfer.Test.csproj",
+        "projectName": "FileTransfer.Test",
+        "projectPath": "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer.Test\\FileTransfer.Test.csproj",
+        "packagesPath": "C:\\Users\\MuhsinMeydan\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MuhsinMeydan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/swoopfunding/da105bd1-5702-4fd5-a17f-60a43d488529/_packaging/apimanagement-packages%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer\\FileTransfer.csproj": {
+                "projectPath": "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer\\FileTransfer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.17.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer\\FileTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer\\FileTransfer.csproj",
+        "projectName": "FileTransfer",
+        "projectPath": "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer\\FileTransfer.csproj",
+        "packagesPath": "C:\\Users\\MuhsinMeydan\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\Muhsin\\FileTransferTest\\FileTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MuhsinMeydan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/swoopfunding/da105bd1-5702-4fd5-a17f-60a43d488529/_packaging/apimanagement-packages%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MMQ": {
+              "target": "Package",
+              "version": "[1.0.18, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.0-preview.3.22175.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
