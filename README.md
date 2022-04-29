@@ -2,10 +2,10 @@
 ## Development config: .Net 6.0
 
 ## Running Application takes 2 commands:
-	- transfer {sourceFolderPath} {destinationFolderPath}  // to transfers files from source folder to destination folder.
+	1- *transfer* {sourceFolderPath} {destinationFolderPath}  // to transfers files from source folder to destination folder.
 	  e.g. transfer ./ c:/temp/test
 	  
-	- exit // to stop file transfer and exit.
+	2- *exit* // to stop file transfer and exit.
 
 
 ## Application flow:
